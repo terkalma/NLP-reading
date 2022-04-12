@@ -11,3 +11,8 @@ http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 https://karpathy.github.io/2019/04/25/recipe/
 
 
+### Tokenization
+
+* https://medium.com/swlh/differences-between-word2vec-and-bert-c08a3326b5d1
+* https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0
+* https://towardsdatascience.com/wordpiece-subword-based-tokenization-algorithm-1fbd14394ed7
