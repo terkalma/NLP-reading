@@ -16,3 +16,4 @@ https://karpathy.github.io/2019/04/25/recipe/
 * https://medium.com/swlh/differences-between-word2vec-and-bert-c08a3326b5d1
 * https://towardsdatascience.com/byte-pair-encoding-subword-based-tokenization-algorithm-77828a70bee0
 * https://towardsdatascience.com/wordpiece-subword-based-tokenization-algorithm-1fbd14394ed7
+* original paper for WordPiece: https://static.googleusercontent.com/media/research.google.com/ja//pubs/archive/37842.pdf
